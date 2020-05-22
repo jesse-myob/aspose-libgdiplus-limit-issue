@@ -1,0 +1,23 @@
+## Ignore Visual Studio temporary files, build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+.vs/
+.vs
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+.user
+*.user
+mysql-volume
+Tools/coverage.json
+Tools/coverage.hits
+Tools/opencovercoverage.xml
+Tests/Results/coverage.json
+Tests/Results/coverage.opencover.xml
+
+
+.idea
+.sonarqube
++.gitignore
+.DS_Store
